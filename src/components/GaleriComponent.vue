@@ -28,7 +28,7 @@
         <img class="h-auto max-w-full rounded-lg" src="../assets/kelas9.png" alt="">
     </div>
     <div>
-        <img class="h-auto max-w-full rounded-lg" src="../assets/nari4dj.png" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="../assets/nari4.png" alt="">
     </div>
     <div>
         <img class="h-auto max-w-full rounded-lg" src="../assets/kelas6.png" alt="">
